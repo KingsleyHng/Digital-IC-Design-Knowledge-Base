@@ -161,6 +161,11 @@ FPGA开发中，细节的描述总结：[FPGA设计与验证流程](./src/docs/F
 
 [Glitch Free时钟切换技术另一篇博客](https://blog.csdn.net/Reborn_Lee/article/details/90378355?tdsourcetag=s_pctim_aiomsg)
 
+
+## MIPI
+
+### MIPI-DPHY
+
 ## 验证相关
 
 ### SystemVerilog相关
