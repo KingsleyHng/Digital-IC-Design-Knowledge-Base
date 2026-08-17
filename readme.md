@@ -165,6 +165,7 @@ FPGA开发中，细节的描述总结：[FPGA设计与验证流程](./src/docs/F
 ## MIPI
 
 ### MIPI-DPHY
+[MIPI DPHY概述](src/docs/MIPI/MIPI_DPHY_概述.md)
 
 ## 验证相关
 
